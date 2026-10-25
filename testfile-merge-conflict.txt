@@ -1,1 +1,2 @@
-This is file to test merge conflict.
+Is there any conflict?
+Yes, there was conflict between dev1 and dev2 branch. But we have resolved it now.
